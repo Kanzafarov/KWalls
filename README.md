@@ -13,4 +13,6 @@
 
 ## Demonstration : (click to play)
 
-[![KWalls](https://media.giphy.com/media/8vwEvDAT3wSK2XkPDw/giphy.gif)](https://vimeo.com/262392804 "KWalls")
+[![KWalls-MainScreen](https://media.giphy.com/media/wOOpP8kvzWYoHIZG1u/giphy.gif)](https://vimeo.com/262392804 "KWalls-MainScreen")
+[![KWalls-SearchScreen](https://media.giphy.com/media/1xOPokoVITd5Kcv99q/giphy.gif)](https://vimeo.com/262392804 "KWalls-SearchScreen")
+[![KWalls-PopularScreen](https://media.giphy.com/media/wOOpP8kvzWYoHIZG1u/giphy.gif)](https://vimeo.com/262392804 "KWalls-PopularScreen")
