@@ -1,5 +1,6 @@
 # KWalls
-## KWalls a Wallpaper App Powered by React Native.
+## KWalls a wallpaper app powered by React Native.
+#### Note: Not available for iOS as I encountered breaking bugs with React Native in XCode
 
 ### Technologies used : 
 
