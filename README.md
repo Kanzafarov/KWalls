@@ -1,10 +1,10 @@
 # KWalls
 ## KWalls a wallpaper app powered by React Native.
-#### Note: Not available for iOS as I encountered breaking bugs with React Native in XCode
+#### Note: Not available for iOS as I encountered breaking bugs with React Native in XCode.
 
 ### Technologies used : 
 
-##### JavaScript (ES6/ES7)
+##### JavaScript (ES6)
 ##### React Native : https://facebook.github.io/react-native/
 ##### React Native Navigation: https://github.com/wix/react-native-navigation
 ##### Native Base: https://nativebase.io
