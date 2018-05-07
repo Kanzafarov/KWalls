@@ -15,4 +15,4 @@
 
 [![KWalls-MainScreen](https://media.giphy.com/media/wOOpP8kvzWYoHIZG1u/giphy.gif)](https://vimeo.com/262392804 "KWalls-MainScreen")
 [![KWalls-SearchScreen](https://media.giphy.com/media/1xOPokoVITd5Kcv99q/giphy.gif)](https://vimeo.com/262392804 "KWalls-SearchScreen")
-[![KWalls-PopularScreen](https://media.giphy.com/media/wOOpP8kvzWYoHIZG1u/giphy.gif)](https://vimeo.com/262392804 "KWalls-PopularScreen")
+[![KWalls-PopularScreen](https://media.giphy.com/media/YWb4KvRDsMukFSwPLL/giphy.gif)](https://vimeo.com/262392804 "KWalls-PopularScreen")
