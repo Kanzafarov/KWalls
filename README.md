@@ -2,6 +2,13 @@
 ## KWalls a wallpaper app powered by React Native.
 #### Note: Not available for iOS as I encountered breaking bugs with React Native in XCode.
 
+### Front End : React Native : https://facebook.github.io/react-native/
+### Back End : API Only.
+
+### API's Used : 
+
+##### Wall.Alphacoders API [ Wallpapers ] : https://wall.alphacoders.com/api.php
+
 ### Technologies used : 
 
 ##### JavaScript (ES6)
