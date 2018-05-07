@@ -14,5 +14,7 @@
 ## Demonstration : (click to play)
 
 [![KWalls-MainScreen](https://media.giphy.com/media/wOOpP8kvzWYoHIZG1u/giphy.gif)](https://vimeo.com/262392804 "KWalls-MainScreen")
-[![KWalls-SearchScreen](https://media.giphy.com/media/1xOPokoVITd5Kcv99q/giphy.gif)](https://vimeo.com/262392804 "KWalls-SearchScreen")
-[![KWalls-PopularScreen](https://media.giphy.com/media/YWb4KvRDsMukFSwPLL/giphy.gif)](https://vimeo.com/262392804 "KWalls-PopularScreen")
+[![KWalls-SearchScreen](https://media.giphy.com/media/3Hxy9j5Xa0UqdNT277/giphy.gif)](https://vimeo.com/262392804 "KWalls-SearchScreen")
+[![KWalls-PopularScreen](https://media.giphy.com/media/39yE4L0zSxm2gUqGPo/giphy.gif)](https://vimeo.com/262392804 "KWalls-PopularScreen")
+
+[![Download-Android](http://www.atteztech.com/images/ZN62/10.19/android-app-on-google-play.jpg)](https://play.google.com/store/apps/details?id=com.thewallpaperproject "Download-Android")
